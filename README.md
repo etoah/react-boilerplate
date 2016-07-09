@@ -1,12 +1,13 @@
 # React&Redux boilerplate
-> Lightweight React&Redux boilerplate
+> Lightweight React&Redux boilerplate 适用于移动端网络环境轻量级的React&Redux seed project
 
 ### Getting started
-1. Clone this repository using `git clone --depth=1 https://github.com/a-tarasyuk/rr-boilerplate.git <YourProjectName>`
+1. Clone this repository using `git clone --depth=1 https://github.com/etoah/react-boilerplate.git <YourProjectName>`
 2. Enter to your project `cd <YourProjectName>`
 3. Run `npm i` to install the dependencies
 4. Run `npm run dev-server` to start the local web server
 5. Go to `http://localhost:9999`
+
 
 ### Libraries/Tools
 - [React](https://facebook.github.io/react)
